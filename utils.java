@@ -1,9 +1,1 @@
-iii
-g
-g
-g
-g
-g
-g
-g
-g
+java 1.8.0
